@@ -1,2 +1,2 @@
 # naumann
-Temporary home page until Stevens CS can host properly.
+My temporary home page until Stevens CS can host properly.
