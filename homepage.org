@@ -23,6 +23,8 @@
 #+BEGIN_COMMENT
 C-c C-e h h (org-html-export-to-html)    export current as an .html
 
+and then copy as index.html
+
 Stuff that won't be exported 
 
 #+HTML_HEAD:
@@ -53,6 +55,8 @@ fine-grained confidentiality/integrity policies;
 program analysis, verification, and transformation;
 correctness by construction; 
 and methodology for formal specification of distributed system components.
+
+I'm in the [[https://mgree.github.io/cypress/][Cypress]] group.
 
 ** Publications 
 
@@ -105,14 +109,11 @@ Editorial boards: [[https://dl.acm.org/journal/toplas][ACM Transactions on Progr
 
 * Miscellany 
 
-** Links
+** A series of noun phrases (lacunae not shown)
 
 [[https://www.sigplan.org/Conferences/PLMW/][Mentoring for PL research]]; 
 [[https://fairplayforkids.org][Childhood beyond brands]];  
-[[https://www.verifiedvoting.org/][Verifying what counts]] 
-
-** A series of noun phrases (lacunae not shown)
-
+[[https://www.verifiedvoting.org/][Verifying what counts]];
 [[https://www.cs.stevens.edu/~naumann][where my page should be]];
 [[https://joaogrande.org/][Capoeira Angola Center of Mestre João Grande]]; 
 [[https://freedom-to-tinker.com/][Freedom to Tinker]];   
