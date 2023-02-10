@@ -66,6 +66,21 @@ I'm in the [[https://mgree.github.io/cypress/][Cypress]] group.
 
 [[https://dblp.org/pid/39/2319.html][DBLP]] [[https://scholar.google.com/citations?user=ZC0qa2EAAAAJ&hl=en&oi=ao][Google Scholar]]
 
+Recent papers:
+
+[[https://dl.acm.org/doi/10.1145/3551497][A Relational Program Logic with Data Abstraction and Dynamic Framing]]
+(with Anindya Banerjee, Ramana Nagasamudram, and Mohammad Nikouei)
+in ACM TOPLAS 2022.
+
+[[https://arxiv.org/abs/2202.04278][An Algebra of Alignment for Relational Verification]] (with Timos Antonopoulos, Eric Koskinen, Ton Chanh Le, Ramana Nagasamudram and Minh Ngo) in POPL 2023.
+
+The WhyRel Prototype for Modular Relational Verification of Pointer Programs
+(with Ramana Nagasamudram and Anindya Banerjee) to appear in TACAS 2023.
+
+Toward Tool-Independent Summaries for Symbolic Execution
+(with Frederico Ramos, Nuno Sabino, Pedro Adão and José Fragoso Santos)
+to appear in ECOOP 2023.
+
 ** Advisees 
 
 Current and past PhD students: Ramana Nagasamudram; 
