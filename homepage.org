@@ -129,6 +129,7 @@ Editorial boards: [[https://dl.acm.org/journal/toplas][ACM Transactions on Progr
 [[https://www.sigplan.org/Conferences/PLMW/][Mentoring for PL research]]; 
 [[https://fairplayforkids.org][Childhood beyond brands]];  
 [[https://www.verifiedvoting.org/][Verifying what counts]];
+my Chinese name (那 德 维);
 [[https://www.cs.stevens.edu/~naumann][where my page should be]];
 [[https://joaogrande.org/][Capoeira Angola Center of Mestre João Grande]]; 
 [[https://freedom-to-tinker.com/][Freedom to Tinker]];   
